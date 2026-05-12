@@ -1,0 +1,2 @@
+test,chisq_statistic,df,res_df,p_value
+H0: all interaction terms = 0,11.041987028567508,3,239,0.011500988911412099

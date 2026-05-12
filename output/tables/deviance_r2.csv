@@ -1,0 +1,4 @@
+"Model","Top5_DevR2","Top1_DevR2"
+"A: Demographics only",0.0594,0.045
+"B: Demo + Morbidity",0.111,0.0977
+"C: Demo + Morbidity x Insurance",0.1127,0.103

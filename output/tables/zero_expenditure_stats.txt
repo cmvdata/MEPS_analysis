@@ -1,0 +1,3 @@
+Total analytical sample (n):      17909
+Zero-expenditure observations:    2594 (14.5%)
+Positive-expenditure (for GLM):   15315 (85.5%)

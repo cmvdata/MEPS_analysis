@@ -1,0 +1,2 @@
+"n_analytical_sample","n_top5","pct_top5","n_top1","pct_top1","median_total_exp","n_zero_exp","pct_zero_exp","morbidity_score_p25","morbidity_score_p50","morbidity_score_p75"
+17909,1034,5.8,208,1.2,2172,2594,14.5,-0.819,-0.616,0.607

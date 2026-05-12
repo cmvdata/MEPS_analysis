@@ -1,0 +1,39 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# renv
+renv/library/
+renv/local/
+renv/lock/
+renv/staging/
+
+# Data (raw files are large; processed files can be regenerated)
+data/raw/*.dta
+data/raw/*.zip
+data/raw/*.ssp
+data/processed/*.rds
+
+# Models (large binary artifacts; regenerate from scripts)
+output/models/*.rds
+
+# Shiny / rsconnect deploy artifacts
+rsconnect/
+
+# Claude Code local state
+.claude/
+
+# LaTeX build artifacts
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.bbl
+paper/*.blg
+paper/*.toc
+paper/*.synctex.gz
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+"model","outcome","spec","n"
+"A1","top5","Demographics",17740
+"A2","top1","Demographics",17740
+"B1","top5","Demo+Morbidity",17563
+"B2","top1","Demo+Morbidity",17563
+"C1","top5","Demo+Morbidity*Insurance",17563
+"C2","top1","Demo+Morbidity*Insurance",17563
